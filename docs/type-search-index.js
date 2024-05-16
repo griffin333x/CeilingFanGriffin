@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.griffin.ceilingfangriffin","l":"CeilingFan"},{"p":"<Unnamed>","l":"CeilingFanTest"},{"p":"com.griffin.ceilingfangriffin.enums","l":"Direction"},{"p":"com.griffin.ceilingfangriffin","l":"Main"},{"p":"com.griffin.ceilingfangriffin.enums","l":"Speed"}];updateSearchResults();
