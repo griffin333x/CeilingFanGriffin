@@ -13,4 +13,4 @@ Clone the repository and run the Main Class/Test Class in your favourite IDE.
 
 ## Documentation
 
-The Javadoc documentation is available [here](https:/griffin333x.github.io/CeilingFanGriffin).
+The Javadoc documentation is available [here](The Javadoc documentation is available [here](https://griffin333x.github.io/CeilingFanGriffin).
